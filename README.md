@@ -1,1 +1,1 @@
-# fairy-and-star
+# Fairy-and-Star-Game
